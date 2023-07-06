@@ -2,13 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="web-dev-projects\personal-portfolio\src\assets\img\readmeImg.png">
+![readmeImg](https://github.com/CalumMcCallion/Hairdressing-site/assets/72882907/52ae6e91-75fd-47bc-aff8-734f5f0e2d00)
+
 
 Built using:
 
 - Front-end library: React
 - CSS framework: React-bootstrap
 - CSS animations library: Animate.css
+![Uploading readmeImg.png…]()
 
 In the /personal-portfolio, you can run:
 
