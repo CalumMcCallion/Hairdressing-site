@@ -10,7 +10,7 @@ Built using:
 - Front-end library: React
 - CSS framework: React-bootstrap
 - CSS animations library: Animate.css
-![Uploading readmeImg.png…]()
+
 
 In the /personal-portfolio, you can run:
 
